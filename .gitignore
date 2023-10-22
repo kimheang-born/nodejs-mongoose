@@ -3,3 +3,5 @@ node_modules
 images/*
 data/invoices/*
 access.log
+server.cert
+server.key
